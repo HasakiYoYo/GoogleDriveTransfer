@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crayon112)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crayon112&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # 须知
 
